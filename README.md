@@ -5,3 +5,5 @@
 [国际条款](https://ruixues.github.io/RuixueLicense/瑞雪国际协议)
 
 [详细隐私执行](https://ruixues.github.io/RuixueLicense/详细隐私执行)
+
+[瑞雪数据迁移](https://ruixues.github.io/RuixueLicense/瑞雪数据迁移条约)
