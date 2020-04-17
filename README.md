@@ -7,3 +7,5 @@
 [详细隐私执行](https://ruixues.github.io/RuixueLicense/详细隐私执行)
 
 [瑞雪数据迁移](https://ruixues.github.io/RuixueLicense/瑞雪数据迁移条约)
+
+[瑞雪额外服务](https://ruixues.github.io/RuixueLicense/extra)
