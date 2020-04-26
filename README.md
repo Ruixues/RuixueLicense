@@ -9,3 +9,5 @@
 [瑞雪数据迁移](https://ruixues.github.io/RuixueLicense/瑞雪数据迁移条约)
 
 [瑞雪额外服务](https://ruixues.github.io/RuixueLicense/Extra)
+
+[图床协议](https://ruixues.github.io/RuixueLicense/图床协议)
