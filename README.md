@@ -11,3 +11,5 @@
 [瑞雪额外服务](https://ruixues.github.io/RuixueLicense/Extra)
 
 [图床协议](https://ruixues.github.io/RuixueLicense/图床协议)
+
+[内容管控](https://ruixues.github.io/RuixueLicense/content)
