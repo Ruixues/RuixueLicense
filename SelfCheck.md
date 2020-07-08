@@ -10,14 +10,16 @@
 
 4.是否同意[《瑞雪源码协议》](https://ruixues.github.io/RuixueLicense/%E7%91%9E%E9%9B%AA%E6%BA%90%E7%A0%81%E5%8D%8F%E8%AE%AE)
 
-5.是否愿意服从安排(不虚报，不拖延，不狡辩)
+6.是否同意[《瑞雪资源协议》](https://ruixues.github.io/RuixueLicense/%E8%B5%84%E6%BA%90%E5%8D%8F%E8%AE%AE)
 
-6.你的年龄 以及对未来的安排
+7.是否愿意服从安排(不虚报，不拖延，不狡辩)
 
-7.平均每周你能够参与项目的时间?
+8.你的年龄 以及对未来的安排
 
-8.以下是瑞雪目前的技术栈:(Golang,HTML,CSS,Javascript,Dart,UE4 BluePrint,Electron,MySQL),你是否愿意根据瑞雪项目的需要学习新的技术?
+9.平均每周你能够参与项目的时间?
 
-10.你是愿意一生无所成就，还是改变世界呢?
+10.以下是瑞雪目前的技术栈:(Golang,HTML,CSS,Javascript,Dart,UE4 BluePrint,Electron,MySQL),你是否愿意根据瑞雪项目的需要学习新的技术?
+
+11.你是愿意一生无所成就，还是改变世界呢?
 
 如果你已经完成了填写，请将你的回答发送至dlcr@vip.qq.com并通知相关人员进行审查.
